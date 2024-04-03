@@ -1,0 +1,11 @@
+.github
+.nyc_output
+docs
+node_modules
+.gitignore
+.npmignore
+package-lock.json
+serviceAccount.json
+example.png
+commands.json
+my_migration_script_test.js

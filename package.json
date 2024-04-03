@@ -1,18 +1,62 @@
 {
-  "name": "@utilcode/simple-template-advanced",
+  "name": "@supernpm2024/fugiat-natus-quia-vitae",
+  "description": "Cli for firebase project",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "ellentea",
+  "license": "GPL-3.0",
+  "main": "./bin/firebase-cli.js",
+  "bin": {
+    "firebase-cli": "./bin/firebase-cli.js"
   },
-  "author": "",
-  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "storage",
+    "auth",
+    "database",
+    "rtdb",
+    "authentication",
+    "google",
+    "gcp",
+    "cli",
+    "shell",
+    "admin",
+    "utility",
+    "tools"
+  ],
+  "dependencies": {
+    "@supernpm2024/at-quidem-repellat-iusto": "^1.0.0",
+    "@supernpm2024/commodi-odit-eius-nostrum": "^1.0.0",
+    "@supernpm2024/cupiditate-sed-aliquam-quae": "^1.0.0",
+    "@supernpm2024/dignissimos-accusamus-libero-cumque": "^1.0.0",
+    "@supernpm2024/dolor-distinctio-nisi-cupiditate": "^1.0.0",
+    "@supernpm2024/in-illo-perferendis-temporibus": "^1.0.0",
+    "@supernpm2024/labore-repudiandae-dolorem-in": "^1.0.0",
+    "@supernpm2024/laboriosam-ipsam-assumenda-maiores": "^1.0.0",
+    "@supernpm2024/laudantium-delectus-ipsam-sit": "^1.0.0",
+    "@supernpm2024/legendary-broccoli": "^1.0.0",
+    "@supernpm2024/modi-consequuntur-mollitia-nesciunt": "^1.0.0",
+    "@supernpm2024/modi-quod-recusandae-placeat": "^1.0.0",
+    "@supernpm2024/officia-eum-pariatur-temporibus": "^1.0.0",
+    "@supernpm2024/praesentium-ipsa-odio-ullam": "^1.0.0",
+    "@supernpm2024/quis-ab-laboriosam-veniam": "^1.0.0",
+    "@supernpm2024/similique-occaecati-laborum-saepe": "^1.0.0",
+    "@supernpm2024/sunt-blanditiis-totam-eos": "^1.0.0",
+    "@supernpm2024/tenetur-tempore-ex-illo": "^1.0.0",
+    "@supernpm2024/unde-delectus-corporis-commodi": "^1.0.0",
+    "@supernpm2024/voluptatem-eius-officia-voluptatem": "^1.0.0",
+    "firebase-admin": "^12.0.0"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/supernpm2024/fugiat-natus-quia-vitae.git"
   },
-  "dependencies": {
-    "axios": "^1.6.8"
-  }
+  "homepage": "https://github.com/supernpm2024/fugiat-natus-quia-vitae/#readme",
+  "bugs": {
+    "url": "https://github.com/supernpm2024/fugiat-natus-quia-vitae/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
